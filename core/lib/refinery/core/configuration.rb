@@ -12,7 +12,7 @@ module Refinery
 
     self.rescue_not_found = false
     self.base_cache_key = :refinery
-    self.site_name = "Company Name"
+    self.site_name = "PlaNET 2020"
     self.google_analytics_page_code = "UA-xxxxxx-x"
     self.matomo_analytics_server = "analytics.example.org"
     self.matomo_analytics_site_id = "123"
